@@ -83,7 +83,7 @@ The domain is modelled around a clear distinction between a **physical `Seat`** 
 ### Class Diagram
 
 [Class Diagram]
-<img width="1833" height="913" alt="Untitled Diagram-Class Diagram drawio" src="https://github.com/user-attachments/assets/47ab0fb7-902d-4349-8021-51f9d9da9cbd" />
+<img width="1600" height="780" alt="IMG-20260915-WA0003" src="https://github.com/user-attachments/assets/3103ced2-25bd-4b4a-a208-debb7b708d66" />
 
 
 - **Composition (◆)** — `Cinema`→`Screen`, `Screen`→`Seat`, `Show`→`ShowSeat`: the part has no existence outside the whole.
@@ -96,7 +96,7 @@ Editable source: [`docs/class_diagram.drawio`](docs/class_diagram.drawio) (open 
 ### Sequence Diagram — "book 1 seat & pay by UPI"
 
 [Sequence Diagram]
-<img width="1683" height="1298" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/e3e7db3a-0726-49eb-a8fe-6abfbeeacf32" />
+<img width="1600" height="1233" alt="IMG-20260915-WA0004" src="https://github.com/user-attachments/assets/fcca05fd-e172-40e5-9969-2283085bd27e" />
 
 
 ## Project Structure
