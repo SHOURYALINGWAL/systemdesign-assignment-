@@ -58,12 +58,12 @@ Choose show: 1
   ( [ ] = available   [X] = booked )
 
 Seats (e.g. A1,B2): A1,B2
-Customer name: bansh
+Customer name: Shourya_Lingwal
   A1 SILVER Rs.150   B2 GOLD Rs.250
   TOTAL          Rs.400
 
 Pay by: 1.UPI  2.Card  3.Cash > 1
-  UPI ID: bans@upi
+  UPI ID: Shourya_Lingwal@upi
   Enter UPI OTP (use 0000 to simulate failure): 1234
   [UPI] Rs.400 paid successfully
 
